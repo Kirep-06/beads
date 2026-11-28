@@ -86,6 +86,7 @@
 100 19 TestEmbeddedLabelConcurrent
 100 19 TestEmbeddedLeaseTTLFlagArmsTheLease
 100 19 TestEmbeddedNewDoltStore_StrictReadOnlyRefusesWritesOnFreshDatabase
+100 19 TestEmbeddedReclaimDryRunChangesNothing
 100 19 TestEmbeddedShowHead
 
 100 20 TestEmbeddedDoctorExportCheckMissingFileWarns
